@@ -26,7 +26,7 @@ The CMO of the online retail store wants to view the information on the top 10 c
 
 
 
-                                ![Screenshot 2024-05-30 120405](https://github.com/Pranali-05/Online-Retail-Data-Analysis-Dasboard/assets/90762811/4453c4e8-091d-4c04-be4a-b23b5d0acd44)
+                          ![image](https://github.com/Pranali-05/Online-Retail-Data-Analysis-Dasboard/assets/90762811/c06f9263-e6f2-48c0-be2e-36dfaf7b20ec)
 
 
 
