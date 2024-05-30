@@ -7,7 +7,8 @@ In this task, There will be a set of 5 questions on different situations where y
 The CEO of the retail store is interested in viewing the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into monthly revenue. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the following year.
 
 
-                                                    ![Screenshot 2024-05-30 120727](https://github.com/Pranali-05/Online-Retail-Data-Analysis-Dasboard/assets/90762811/83dc380d-a58c-4ea2-8163-c7ead330e457)
+                                
+                 ![q1 ](https://github.com/Pranali-05/Online-Retail-Data-Analysis-Dasboard/assets/90762811/23a2601e-a6d6-441b-85f5-97f7021bd9f0)
 
 
 
