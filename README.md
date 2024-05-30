@@ -7,8 +7,6 @@ In this task, There will be a set of 5 questions on different situations where y
 The CEO of the retail store is interested in viewing the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into monthly revenue. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the following year.
 
 
-                                
-                 ![q1 ](https://github.com/Pranali-05/Online-Retail-Data-Analysis-Dasboard/assets/90762811/23a2601e-a6d6-441b-85f5-97f7021bd9f0)
 
 
 
@@ -18,8 +16,6 @@ To meet the CMO’s requirements in Tableau, you can create a visualization that
 
 
 
-                          ![Screenshot 2024-05-30 120523](https://github.com/Pranali-05/Online-Retail-Data-Analysis-Dasboard/assets/90762811/fa1c5bfe-97b6-45f7-87b4-eed258faf1fb)
-
 
          
 # Question 3
@@ -27,7 +23,6 @@ The CMO of the online retail store wants to view the information on the top 10 c
 
 
 
-                          ![image](https://github.com/Pranali-05/Online-Retail-Data-Analysis-Dasboard/assets/90762811/c06f9263-e6f2-48c0-be2e-36dfaf7b20ec)
 
 
 
@@ -36,6 +31,6 @@ The CMO of the online retail store wants to view the information on the top 10 c
 You would need to create a map chart here as the map chart would allow the CEO to view the entire map of the world and it will highlight each country and show the total number of units sold or the name of the country. You would need to filter out the United Kingdom from the data as it is not needed in this visual. Make sure that the name of the country or the total units sold is visible for each country. Guidance on how to create the map chart is provided in the resources section.
 
                                                               
-                                                              ![Screenshot 2024-05-30 120502](https://github.com/Pranali-05/Online-Retail-Data-Analysis-Dasboard/assets/90762811/e3bcc8ac-8d56-4e21-9be9-00b2e50cac70)
+                                                   
 
                                     
